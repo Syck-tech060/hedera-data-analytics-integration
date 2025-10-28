@@ -1,0 +1,4 @@
+hedera-sdk==2.36.0
+pandas
+python-dotenv
+hashlib
